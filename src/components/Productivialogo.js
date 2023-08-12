@@ -3,7 +3,7 @@ import productiviaLogo from "../assets/Productivia_Logo.png";
 
 const ProductiviaLogo = () => {
   return (
-    <a href="/Home" className={classes.productiviaLogo}>
+    <a href="/" className={classes.productiviaLogo}>
       <img src={productiviaLogo} alt="productiviaLogo" />
       <h2>Productivia</h2>
     </a>

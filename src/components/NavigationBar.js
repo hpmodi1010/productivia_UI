@@ -12,7 +12,7 @@ const NavigationBar = () => {
       <ProductiviaLogo />
       <nav>
         <ul>
-          <a href="/Home">
+          <a href="/">
             <li>
               <Button className={classes["home-button"]}>
                 <img src={Home_icon} alt="Home" />
@@ -20,7 +20,7 @@ const NavigationBar = () => {
               </Button>
             </li>
           </a>
-          <a href="/todo">
+          <a href="/">
             <li>
               <Button>
                 <img src={Todo_icon} alt="Todo img" />
@@ -28,7 +28,7 @@ const NavigationBar = () => {
               </Button>
             </li>
           </a>
-          <a href="/notes">
+          <a href="/">
             <li>
               <Button>
                 <img src={Notes_icon} alt="Notes" />

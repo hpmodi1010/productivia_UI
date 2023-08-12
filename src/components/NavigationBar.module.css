@@ -1,0 +1,29 @@
+.nav-bar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #43379d;
+  width: 25%;
+  height: 100vh;
+}
+.nav-bar ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+}
+.nav-bar li {
+  border-radius: 8px;
+  width: 100%;
+}
+
+.home-button {
+  display: flex;
+}
+.nav-bar img {
+  height: 1.5rem;
+  margin: 0 1rem 0 0;
+}
+nav {
+  width: 100%;
+}

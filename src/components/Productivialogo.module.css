@@ -1,0 +1,16 @@
+.productiviaLogo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 1.2rem;
+  cursor: pointer;
+  text-decoration: none;
+  height: 3rem;
+  padding-top: 13px;
+}
+.productiviaLogo img {
+  height: 2rem;
+}
+.productiviaLogo h2 {
+  color: white;
+}

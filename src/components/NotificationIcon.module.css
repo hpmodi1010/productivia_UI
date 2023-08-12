@@ -1,0 +1,24 @@
+/* NotificationIcon.module.css */
+.notificationIcon {
+  position: relative;
+  direction: rtl; /* Set the direction to right-to-left */
+}
+.notificationIcon img {
+  height: 35px;
+}
+
+.icon {
+  font-size: 24px;
+  color: #333;
+}
+
+.notificationCount {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  font-size: 12px;
+}

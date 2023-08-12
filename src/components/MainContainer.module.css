@@ -1,0 +1,9 @@
+.MainInput {
+  display: flex;
+  align-items: center;
+  width: 75vw;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+}
+.mainOutput {
+  padding-left: 2rem;
+}

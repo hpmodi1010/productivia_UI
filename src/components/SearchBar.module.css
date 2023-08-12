@@ -1,0 +1,22 @@
+/* SearchBar.module.css */
+.searchBar {
+  display: flex;
+  align-items: center;
+  /* direction: rtl; Set the direction to right-to-left */
+  width: 100%;
+}
+.searchIcon {
+  height: 1rem;
+  padding-left: 20px;
+}
+
+.input {
+  padding: 5px 1rem;
+  border: none;
+  width: 100%;
+  height: 4rem;
+  font-size: 16px;
+}
+.input:focus {
+  outline: none;
+}

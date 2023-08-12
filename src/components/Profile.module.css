@@ -1,0 +1,17 @@
+/* Profile.module.css */
+.profile {
+  display: flex;
+  align-items: center;
+  direction: rtl; /* Set the direction to right-to-left */
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.username {
+  font-size: 18px;
+}
